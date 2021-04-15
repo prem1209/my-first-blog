@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*~
+__pycache__
+# ENV
+.env
+myvenv/
+venv/
+#DataBase
+db.sqlite3
+# Static Folder at project root
+/static/
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
